@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_burrow_spawn",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.999297,
+  "name":"snd_burrow_spawn",
+  "parent":{
+    "name":"Sonidos",
+    "path":"folders/Sonidos.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_burrow_spawn.wav",
+  "type":0,
+  "volume":1.0,
+}
